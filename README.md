@@ -75,7 +75,7 @@ https://youtu.be/wr3-0T4n5xM
 ### Repo:  
 ```bash
 
-https://github.com/pheobeayo/ecorewards-dev 
+https://github.com/pheobeayo/ecorewards-smart 
 
 ```
 
