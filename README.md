@@ -60,7 +60,7 @@ These deployments provide the foundation for secure, transparent transactions wi
 ### MVP
 ```bash
 
-https://ecorewards-dev.vercel.app/ 
+https://ecorewards-smart.vercel.app/ 
 
 ```
 
