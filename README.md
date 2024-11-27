@@ -45,23 +45,43 @@ Mobile App development.
 Implementing the Green Token as incentives for the sellers and buyers to participate in GreenHouse Gas reduction.
 
 ## Technical Details:
-EcoReward is currently deployed on the AIA Testnet. This testnet ensures that the platform’s blockchain-based transactions and token rewards system are secure and functional.
+EcoReward is currently deployed on the Base Testnet. This testnet ensures that the platform’s blockchain-based transactions and token rewards system are secure and functional.
 
-`EcoToken  deployed to 0x38b0917178b0C07bEAAf9c6255Ad97C1c9D984EE `
+`EcoToken  deployed to 0xC2C913Fa70Daf0f4fC34f98dDeb7d91a673dbaD5 `
 
-`EcoReward  deployed to 0xF2837cD516f35686cBfD91B8A523abE6216DdE52 `
+`EcoReward  deployed to 0x43698b0F2D54F5Df363B24ADa641C027a0195127 `
 
-`Transaction : https://testnet.aiascan.com/address/0xF2837cD516f35686cBfD91B8A523abE6216DdE52?tab=contract`
+
 
 These deployments provide the foundation for secure, transparent transactions within the decentralized marketplace.
 
 ## Demo and MVP:
 
-`MVP: https://ecorewards-aia.vercel.app/`
+### MVP
+```bash
+
+https://ecorewards-dev.vercel.app/ 
+
+```
 
 
-`Demo Video: `
+### Demo Video
+``` bash
 
-`Repo: https://github.com/pheobeayo/ecorewards-aia  `
+https://youtu.be/wr3-0T4n5xM
 
-Pitch Slide: https://www.canva.com/design/DAGRaEgPm2k/hk0FTDd_3MauN9KbeRwBJw/view?utm_content=DAGRaEgPm2k&utm_campaign=designshare&utm_medium=link&utm_source=editor
+```
+
+### Repo:  
+```bash
+
+https://github.com/pheobeayo/ecorewards-dev 
+
+```
+
+### Pitch Slide
+```bash
+
+https://www.canva.com/design/DAGRaEgPm2k/hk0FTDd_3MauN9KbeRwBJw/view?utm_content=DAGRaEgPm2k&utm_campaign=designshare&utm_medium=link&utm_source=editor
+
+```
